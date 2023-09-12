@@ -1,4 +1,4 @@
-# hello-world
+# FariaH.github.io
 first repository 
 
 Hi, I'm Faria Hossain. 
